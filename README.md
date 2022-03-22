@@ -1,2 +1,2 @@
-# openssh
+# OpenSSH
 OpenSSH configuration &amp; notes
